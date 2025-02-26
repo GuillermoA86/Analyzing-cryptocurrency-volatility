@@ -1,0 +1,301 @@
+---
+title: "Cryptocurrencies vs Fiat Money"
+author: "Guillermo Arroyo"
+date: "25 de mayo de 2020"
+output:
+  html_document: default
+  word_document: default
+font-family: Arial
+---
+<p style='text-align: right;'>  
+##Abstract
+
+The purpouse of this peper is, firstly, show the diferences between Criptocurrencies and Fiat Money, secondly, show why cryptocurrencies can not be currency in the usual terms, not yet.
+</p>
+
+##Introduction
+
+Man is a social being, he has the need to help others and what others can provide; this means, a need to exchange material things. Metals, cattle, cowries, cocoa beans are used as money. At this time, it is no necessary that currencies are anchored in a precious metal even when gold and metals (see Hermele, 2014, p. 14) are easy for everyone to measure (by size or weight, and with, more special knowledge, by fineness), and it is possible to see when they have been tampered with. Smith (1976, pp. 26-27) says that since "Division of labour being established, every man lives by exchanging. [.] Difficulties of barter lead to the selection of one commodity as money, [.] for example, cattle, salt, shells, cod, tobacco, sugar, leather and nails. Metals were eventually preferred because durable and divisible." 
+  It is the law that gives existence and efficacy to money and not the material of which the coins are made. 
+  
+Before the government had a monopoly on the legal currency, the currency in question had to be accepted as a mean of payment by the people. The use of a currency cannot be imposed by force. 
+
+During the Reign of Terror in France, 1973, the punishment for refusing to accept the official means of payment or to carry another currency was the confiscation of property and the death penalty. But in the end these measures failed because people preferred precious metal-backed means of exchange, and no government policy was enough to counter society's desire.
+  After the First World War, the Deutsche Mark was devalued to stratospheric levels. People needed a stable currency, anything was good to make payments, there were thousands of currencies, merchandise, commodities, different in circulation. Until the Rentenmark arrived, whose success was based on a social desire to have a unique currency and its scarcity.
+
+  We must distinguish between the legal value of a coin -legal tender currency- and its intrinsic value, as a commodity. This difference is not trivial, as it has been the cause of countless inflationary crises around the world. Throughout history there are several examples of the degradation of a currency, the most extreme case is found in the substitution of gold for paper money. And this is something to keep in mind when proposing a cryptocurrency as a legal currency, it is neccesary to have a well-balanced supply and demand for money for not to make the same mistakes of the past since, contrary to what many believe, cryptocurrencies do not have a transparent intrinsic value, although they have their equivalent in national currencies and there is an energy investment for their generation, they depend on supply and demand, here is a reason for their volatility.
+  
+The actual monetary sistem has opportunity costs in terms of instabilities, cost and inclusion. 
+The scarcity of national currency, the decrease in the money supply, would cause the search for other means of payment, where new technologies may appear
+
+  The problem of money is the problem of democracy, as Hermele (2014, p. 20) says: "The gold standard was easier to reconcile with authoritarian regimes and dictatorships than with democracies and the subsequent birth of the welfare state." In this sense the logic evolution for fiat money are criptocurrencies.
+
+With Breton Woods agreement, the monopoly of dollars enabled the US to harvest a seigniorage estimated at 10-20 billion USD annually (Cohen 1998, p. 124). Converting, in addition, the dollar as reserve currency worldwide and allowing the United States to export its inflation. This gives the United States the possibility of financing itself with foreign resources, instead of charging taxes to its citizens, that is, having a preponderance of monetary policy instead of fiscal policy. After, in the seventies, US unilaterally abandoned the Bretton Woods agreement by breaking the promise to redeem dollar holdings in gold, obtaining with it even more benefits, at least, the benefit of not having obligations.
+
+Anything can work as money, no sophistication is needed, at least innovation is not one of its main characteristics. It needs to be accepted as a form of payment, pay taxes with it, and used throughout the territory of a country as a social convention.
+
+  Hayek (1976, p.16) proposes finding a way to protect money from politics. People should be free to choose the currency they want to use, the government should no longer have a monopoly on monetary issue. This characteristic would be the essence of a truly free country.
+  Cryptocurrencies are important because represent a new consensus to make payments all around the world, reliable and efficient.   
+
+##Blockchain technology
+
+Blockchain technology is a distributed, immutable, uniqueness, autonomous, open-source software based in cryptographic algorithms. It is a network that stores all the information produced by users over time, which makes it auditable. It is, at the same time, a ledger sistem which requires a minimal structure.
+  Each of the participants in the network contributes to the verification process by means of a blockchain that grows larger as exchange transactions are carried out between the different participants. These blocks are encrypted to avoid the double-spend problem, but the information is protected in each of the nodes of the network to avoid alterations to the system. The whole story is protected in each added block. 
+  It has many applications, one of them is cryptocurrencies. Nakamoto's essay (2008, p.1) proposes a great solution to a great problem: a payment system that is not based on trust. A system peer-2-peer that does not need third-party supervision.
+
+  The steps to run the network are as follows (see Nakamoto, 2008, p.3):
+
+1) New transactions are broadcast to all nodes.
+2) Each node collects new transactions into a block.
+3) Each node works on finding a difficult proof-of-work for its block.
+4) When a node finds a proof-of-work, it broadcasts the block to all nodes.
+5) Nodes accept the block only if all transactions in it are valid and not already spent.
+6) Nodes express their acceptance of the block by working on creating the next block in the
+chain, using the hash of the accepted block as the previous hash.
+
+##Cryptocurrencies
+
+Cryptocurrencies meet the essential characteristics of money, namely, a means of exchange, a unit of accounting, and a store of wealth. It is the first of those tree characteristics the most important to understand the role of society in the ecceptance of a currency. 
+  Mundell (1998) say that: "Consistency, stability and high quality have been the attributes of great currencies that have won the competition for use as international money." There may be more, but in this essay we will adopt the line drawn by the Nobel. We will analyze each of them shortly.
+Consistency. This property ensures the non-deformation of the coin over time in its quality material. Obviously the peer-to-peer algorithm ensures this point 
+Stability. 
+  The opportunity for cryptocurrencies to replace fiat money lies in the fact that with the current currency there is a risk of counterfeit, insecurity and have high transaction fees, even with the digital currencies there are unstablilities, thefts, and frauds. In addition, centralized systems require a large investment in infrastructure, and it is also very difficult to audit. Cryptocurrency-based systems promise to solve all these difficulties at low cost and in consensus. 
+The characteristics in favor of cryptocurrencies to replace fiat money are:
+
+**Durability:** cryptocurrencies cannot be destroyed, they can last infinitely as long as the network and the nodes that support the information exist.
+
+**Unit of account:** cryptocurrencies are divisible and convertible into any currency. For example, in the Bitcoin system 1 satoshi = 0.00000001 Bitcoin.  
+
+**Store of wealth:** Thanks to its high security, it can be stored as a form of wealth.
+
+**Security:** Normally, the Network of a cryptocurrency is highly secure, because its cryptographic based algorithms. It is a decentralized system, with different checkpoints and storage. Transactions made in the system cannot be modified when they have already been validated.
+The Network have mechanisms to ensure impossibility of counterfeiting assets. 
+
+**Transparency:** All members of the network have access to information, an immutable record of all activity exists. 
+
+**Decentralized payments:** The system does not need a third party to validate payments. This is one of the main differences with the traditional systems payments. Allows make the same type of transactions as traditional banking. 
+
+**Democracy:** At least a 51% participation in the system is required to take actions of particular interest. In a large enough system, this is unlikely.
+
+**Lower cost of transactions:** The creation of cryptocurrencies within the system is done through mining, this reduces the cost of money supply to a minimum. Everyone participates in the process, in Bitcoin, for example, there is a reward of 25 cryptocurrencies to the participant who adds a new block. There are no transaction costs and no fees to access to the system. This feature constitutes one of the most valuable opportunities for cryptocurrencies to replace fiat money.
+
+**Verification:** Each added block implies a verification in each and every one of the nodes that participate in the network. Blockchain thcnology resolves the Byzantine General´s Problem, a condition of a computer system, particularly distributed computing systems, where components may fail and there is imperfect information on whether a component has failed, in order to avoid catastrophic failure of the system, the system's actors must agree on a concerted strategy, but some of these actors are unreliable. So, all the nodes have to reach a consensus regarding which component has failed in the first place to exclude it. In blockchain only verified blocks go to the next stage. The owners cannot double-spend the coin (see Nakamoto, 2008, p.2), because the system is aware of all transactions, every coin is in only one place inside the network.  
+
+**Auditable information:** All the generated information is saved in the system, the auditor can track all the movements and owners that a cryptocurrency has had over time. This information is available to all members of the network at all times.
+
+**No risk of chargeback fraud:** Once sent and cleared, a transaction cannot be reversed or changed by the sender. Transactions are done almost instantly and there are no exposure of financial data.  
+
+The characteristics againts of cryptocurrencies to replace fiat money are:
+
+**Expansive supply:** Cryptocurrencies can expand their money supply, not contract it. This is due to the network design. So, the supply is inelastic and previously determined.  
+
+**Limited access technology:** In first place, a device is required to enter the system. In the world, not all people have one. secondly, the network is difficult to use, even when is open to enter and participate. This makes payments for out-of-network purchases difficult, especially in countries where a large percentage of the population does not have access to financial services.
+
+**No protection against mistakes:** There is no going back or clarification of erroneous payments, transactions cannot be reversed. And if someone duplicates the entry key to the wallet, the funds may be lost. Banks currently consider errors / fraud to be "normal" within a percentage operating range. This is accepted as inevitable.
+
+**No institutional support:** Goverments and Banks does not support any cryptocurrency. Cryptocurrencies are not illegal (in the US are recognised by the Department of Justice and regulated in some states like New York), but people cannot pay taxes with them.   
+
+**Intangibility:** Cryptocurrencies do not physically exist, they have no use value. Its value is based on the convention that they be used as currency. 
+
+##Comparison 
+
+The problem with the coexistence of two currencies and the innovation that blockchain implies is that the government would lose sovereignty over money and its creation, that is, it would lose resources that can be used to make monetary policy: pay debt or cancel bonds. No government, however democratic, will allow its currency to be displaced by another currency over which it has no control. For this reason, it is very difficult for a government to accept the implementation of a technology where everyone in the world knows how much money and where it is all the time.
+  Gresham's Law is a theorem about the composition of money in an economy, said Mundell (1998), and the correct sentence of this theorem is not "bad money drives out good", but its opposite: "good money drives out bad". The only way that weak money drives out good is when the currencies are exchanged to the same price. In the history, only strong currencies survive. Now, the dolar is the strong currency because is eccepted in international payments.  
+  There is a preference of investors for hard currencies. In all his essay, Yotopoulos and Sawada (1999) argue that investors' preference for strong currencies does not respond to economic fundamentals but to an "asymmetric reputation" of currencies. Investors prefer to have their investments in denominations of strong currencies since there is a constant depreciation that affects the weak ones.
+  So, it could happens 3 scenarios: 
+1)  
+
+
+
+
+The secret of paper money to drives out gold was its easy handling, lees costly, and its intrinsic characteristic of being a bank credit. Fiat money is elastic at least in the short term.
+
+
+There is no compelling reason to prevent a currency from circulating as a means of payment alongside the legal tender, but in the long run, one will end up displacing the other.
+
+
+Since debts are paid with the less costly money (see Mundell, 1998), there is an opportunity for cryptocurrencies to replace currencies as means of exchange. The cost of paper money must be higher than that of mining cryptocurrencies, even covering the cost of accessing Blockchian technology.  
+
+
+Due to the chaos that a truly democratic consensus would cause, governments have been forced to use a legal tender, which has later served to assert their sovereignty. This monopoly is strongly supported by the fact that the legal tender is the only one with which taxes can be paid, and in general, it is accepted to pay any debt.
+
+
+
+Blockchain technology need much energy. 
+
+##Long-term price formation law
+
+The classical economy is famous for its labor theory of value, therefore, it is necessary to make the distinction between this theory and the theory of price formation, which is the main axis in this essay.
+Roll (2017 [1938], pp. 251) makes a very good summary of the main Marxist definitions of value, production price and market price:
+	The Value, which is measured by the amount of socially necessary labor time embodied in a commodity. It can be represented as c + v + p (where c is the part of constant capital that corresponds to the commodity, v the amount of work that has been paid, or variable capital, and p the unpaid amount or surplus value).
+	The price of production, which can be expressed as c + v + g (where g is the average rate of profit). It can be greater or less than c + v + p, depending on the different organic capital compositions.
+	Finally, we have the market price, which represents the short-term fluctuations around the production price caused by the supply and demand mechanism in a given branch of production.
+It has been decided to put labor theory of value aside because it has many inconsistencies. In her book Production of commodities by means of commodities (1960), Sraffa emphasizes that the classical price theory is correct, but not the labor theory of value. Another criticism of the labor theory of value is made by Roll (2017 [1938], pp. 269) saying that: "the labor theory of value is nothing more than a very old-fashioned theory of prices under very determined conditions of a stationary equilibrium within perfect competition. Therefore, it is inadequate as a general theory, even if it is completely logically satisfactory for the postulated conditions." Value -Lotz (Roll, 2017 [1938],) tells us- is the expression of intangible human needs; the price of the concrete obstacles that must be overcome to create the goods. Thus the price refers solely and exclusively to the exchange value. For Hilferding (1973 [1909], p.23) money is the Dasein of the exchange value of commodities: "Money can only be a general equivalent because it is commodity, that is, exchange value. But as an exchange value, every commodity is a measure of the values of all the others". And later (Hilferding, 1973 [1909], p.23): "The exchange value of goods receives symbolic existence, only ideal in price, and only represented in money." 
+  For the purposes of this essay, the theory of classical prices is independent of labor theory of value and basically consists of pointing out that in the long term, production prices are the axis on which market prices gravitate. 
+  The law of long-term price formation, put forward by classical economists, tells us that the market price oscillates around the price of production and is its anchor. There may be short-term distortions, but the balance in the long run is at the point where these prices converge. Although there are distortions in the short term, prices are rigid in the long term. Production prices, then, are regulatory prices.
+For Smith, the natural price is defined by what we know as the price of production, that is, the rent of the land, the wages of labor, and the benefits of capital that were used to obtain, prepare, and distribute the merchandise. And he tells us (Smith, 2017 [1776], p.56) that: "The market price will decrease more or less with respect to the natural price, as the abundance or scarcity of the genus more or less increases the competition among sellers, or depending on whether they are more or less likely to immediately discard the merchandise." Then he adds what we have pointed out, it is the law of long-term price formation (Smith, 2017 [1776], pp.56-57): "The natural price becomes, therefore, the central price, around the which continually gravitate to the prices of all merchandise."
+For Ricardo, the prices of goods are subject to rise and fall due to two things: 1) The supply and demand of the good and 2) the variations in the goods necessary to produce this good. However, he thinks that the price of the merchandise must be regulated (Ricardo, 1994 [1817], p.285): "It is the cost of production that must ultimately regulate the price of the merchandise and not the ratio of supply to demand: the ratio of supply to demand can, for a time, certainly affect the market value of a commodity, until it is supplied with more or less abundance, as demand may have increased or decreased; but this effect will only be of temporary duration."
+Ricardo (1994 [1817], p.69) formulated as the main cause of equilibrium the movement of capital towards more profitable rates: "It is the desire that each capitalist has to divert his funds from a less profitable placement to a more profitable one, the one that prevents the market prices of goods from remaining, for a long time, above or below their natural prices." What Marx would later take up to say that the profit rates tend to level out among the different branches of industry due to competition.
+The law in Marx is resolved in all his work, because in his definition of the price of production c + v + g, a cycle of the market price is implicit around the price of production, due to the different rates of profit among the industries.
+The classical economists then propose a dynamic price system, where production cycles create oscillations in values and prices; and equilibrium, then, occurs when the market price converges to the production price or the natural price. Although the price distortion is not symmetrical, but tends to be positive and divergent, because if the market price falls below the price of production for a long time, production is interrupted, it is not maintained. Salama (1978 [1975], p.231) tells us about it: "The market price oscillates around the production price, but tends to fluctuate above the latter. From this we deduce an over-profit that favors the penetration of capital in this sector and accentuates it; due to this fact, the upward movement of the organic composition of capital, adds to the forces that tend to lower the rate of profit." 	
+This law did not go unnoticed by marginalists, Carlo Benetti (1978, p.130) recapitulated this fact in his book Value and Distribution: "We already have enough elements to highlight an ambiguity enunciated by Marshall and which has been maintained uninterruptedly since then. This author says that 'as a general rule, the shorter the period considered, the more we will have to take into account the influence of demand on value; the longer the period, the more important is the influence of the cost of production on the value. From this it has been deduced that the cost of production determines the normal price, which could lead us to think that, in the long-term analysis of prices, the symmetric theory of value is identified with the conclusions of the classical theory (which mistakenly it is interpreted as a theory of the determination of normal price by cost of production.).' Marshall's statement simply means that, in conditions of competition and in the long term, capitalists cannot sell below cost by virtue of the losses in which they would incur, not above the cost due to competition." 
+
+##Marginalist price theory
+
+The marginalist price theory is based mainly on the law of supply and demand and on the scarcity of the product to determine the price. In his book III, study of wants and their satisfaction, Marshall (2013 [1890], pp. 70-114) delineate the marginalist price theory, in which the principal idea is that the demand and supply play the most important role in the determination of value.
+The demand is always determined by the consumers, their desires and their purchasing power reflected in the maximization of individual utility. But when this desire is satisfied, the increase of a stock of a thing decreases in importance each time, precisely, because its need is already satisfied, this principle is called by Marshall as the marginal utility principle. The marginal utilities of the various commodities bought must be proportional to their prices. Marshall, then, formulate the law of demand: The greater amount to be sold, the smaller must be the price at wish it is offered in order that it may find purchasers; or, in other words, the amount demanded increases with a fall in price, and diminishes with a rise in price. There will not be any uniform relation between the fall in price and the increase of demand. So, given the individual scales of preference for a time and a space determined, and given a supply curve, is possible to find the equilibrium for each individual, even if the price change in the short run; and then the total demand or the aggregate demand is the sum of the all individual demands.  
+We can formulate the law of supply in similar terms: higher price will induce producers to supply a higher quantity to the market and vice versa. Provided the average cost is not higher than the price, for obvious reasons, otherwise the industry could disappear.      
+The equilibrium point, defined by Walras (see Hicks, 1979 [1890], p.58), is one at which the supply and demand curves intersect. The long-period supply curve of the industry is a horizontal line and demand can only determine the quantity produced by the industry in a long-period equilibrium. The equilibrium of one market could affect other markets, but the fully general equilibrium is achieved in the same way (see Kurz and Salvatori, 1995, p.28). In summary, for the marginalist price theory, the demand is the principal factor in the determination of prices. 
+
+
+##Exchange rate fundamentals##
+
+The factors that influence exchange rates are (see Madura, 2015, pp.112-120):
+
+**Relative inflation rates:** If inflation increases in the local country with respect to the foreing country, its currency is likely to depreciate due to increased demand for foreign goods.
+
+**Relative interest rates:** If the interest rate increases in the local country with respect to the foreign country, its currency is likely to appreciate due to the inflow of investment capital.
+
+**Relative income levels:** If income level increases in the local country with respect to the foreing country, its currency is likely to depreciate due to increased demand for foreign goods.
+
+**Government controls:** Governments can intervene in the exchange rate marking in the following ways: 1) exchange barriers; 2) barriers to foreign trade; 3) intervention in the foreign exchange markets; 4) monetary policy.
+
+**Expectations:** What the agents expect in the future and the political-economic news may affect the level of exchange rates, as well as the speculative attacks of some economic agents.
+
+But the fundamentals of a criptocurrency does not exist. The energy or the fiat money does not explain his value because the movement or dimension of those factors are not correleted with the movement of the criptocurrency. 
+The only explanation for the value of a criptocurrency is his demand and his supply via expectations, and, in the same sense, the number of merchants and users that accept them. Furthermore, cryptocurrencies do not physically exist, they constitute a subjective value, in the manner of the Austrian school of economics.  
+
+
+In the essay published by Kaye Scholer (2016, p. 11) it can be read: 
+  "In contrast to fiat currencies (the value of which is driven by the backing of the applicable goverment) and precious metals (the value of which are linked to historic industrial and commercial applications and cultural investment traditions), critics argue that bitcoins have limited or no inherent or objective value. Bitcoin proponents often counter that bitcoins have value based on their ability to provide access to the Bitcoin Network and their use as a store of value and medium of exchange."
+
+
+##Volatility##
+
+In modern finance, risk is measured with the volatility of historical series, which not only creates technical limitations, but also does not contemplate all the possible risks that the valuation in question may have. Heroic is the exercise of assuming that uncertainty is controllable and measurable, that is, that uncertainty is risk, moreover, that risk is volatility of historical series. In addition to this, volatility is limited to a certain historical limit, that is, for some assets it takes one year, for others three, five, ten years, etc., which leaves out very valuable information that, obviously, is also feasible to repeat in the future. Even more serious is the lack of data, as the volatility of a similar product or asset is assumed to simulate the risk of the asset in question.
+
+There was a paradigm shift in companies in the 1980s, as the focus was on increasing the value of stocks. This boom in finance led to a preference for speculative investments rather than investments in the productive economy.
+
+
+Volatility determines, to a large extent, the value of cryptocurrencies, at a given moment they can be through the roof and then not be worth anything.
+
+Until now, a characteristic of cryptocurrencies are high volatility and limited liquidity. This can be used by speculators to make huge profits.
+
+
+Volatility is undesirable because people prefer stable currencies (see Hayek, 1976, p. 20). 
+
+There are two rules in the exchange markets, the first is that the more liquidity, the less sensitivity of the supply and demand curves to few commercial transactions and vice versa. The second, to more members of the market with operations of low amount less volatility and vice versa (see Madura, 2015, p. 120).
+
+
+
+##Econometric tests
+
+
+
+
+##Inflation and monetary policy
+
+With the use of cryptocurrencies, monetary policy would change radically, because the current banking system is based on credit.
+
+The process to issue cryptocurrencies (see Nakamoto, 2008, p.4) does not generate inflation as in the case of fiat money. 
+
+A sine qua non for currency overvaluation is the power to monopolize the coinage and to mandate its use as legal tender (see Mundel, 1998). 
+
+
+The monetary issue to increase employment generates inflation. 
+
+One of the premises of Keynesian economics par excellence is to increase the existing money supply to increase the level of employment, but this path is artificial and unstable, says Hayek (1976, p.11), because it results in permanent fluctuations in the economy and a sustained increase in inflation. In this scenario, it is necessary to protect the value of the currency against ineffective short-term policies and governments prone to waste and to obtain easy money. 
+
+
+Cryptocurrencies is a way to alleviate inflation since, the goverments lose the sovereing about money.  
+
+Using cryptocurrencies as the official currency would put us in a perpetual liquidity trap, where the interest rate would no longer be effective as a monetary policy instrument. However, the fiscal policy would be effective, since the withholding of taxes would be automatic. On the other hand, this will prevent any government in the world from benefiting at the expense of other countries by the mere fact that its currency is used in international trade transactions.
+
+
+Cryptocurrencies appear to be decoupled from the economy, as current macroeconomic policies cannot be applied. To resolve this question, it is necessary to create a new macroeconomy or adapt cryptocurrencies to the flexibility of a fiat currency.
+
+
+##Criptocurrencies and financial bubbles 
+
+
+
+According to Evannof et al. (2012, p.1), a bubble exist when the market price of an asset exceeds its price determined by fundamental factors by a significant amount for a prolonged period. Excitement about a new product could create an overestimation of demand, the people trust that the product represents a viable instrument of sustained growth, and this leads to high prices, the "momentum" when the price of assets reaches its climax (see Chang et al., 2016, p.2). Normally, the price curve of a new technological product has a positive slope, due to expectations and advertising. Then comes the price spike and the market disappointment. If the product works, a gradual recovery comes to give way to the productivity stage, where the product is consolidated. On the other hand, say Tikhonov et al. (2016, p.6811), the characteristics of a financial bubble are high price volatility and a high trading volume. Both present in the cryptocurrencies that are traded in the markets. Additionally, bubbles tend to have excess liquidity and credit, although in the case that concerns us, it is rather scarce. In the assumption that cryptocurrencies are a bubble, for now there is no bank intervention. But even in this case, it could creates distortions in investments and consumption. 
+  For Blanchard et al. (2012, p. 355) speculative bubbles in financial markets are rational: "In a speculative bubble, the price of the shares is higher than their fundamental value. Investors are willing to pay a high price for the shares because they think they will be able to sell them at an even higher price." The current finances are speculative, therefore, they contain within them the seed of a crisis, and this is one of the consequences of forgetting the price of production in the finances. Bifo (2014, p.133) says that: "The destruction of the real world begins when valorization is emancipated from the production of useful things and when value is self-replicating in the field of finance. The emancipation of value from the referent leads to the destruction of the existing world." And it coincides with the opinions of Dr. Anwar Shaikh that capitalism is an unstable, turbulent, disorderly system, all the series within it are volatile, precisely because they are built on expectations for the future.
+  Some of the most famous bubbles in history are: The Tulip Bubble 1634-1637, where the price of tulip bulbs reached stratospheric levels of almost 500% more, a tulip could buy a house! The MMM pyramid in Russia 1994, where Sergei Mavrody promised 3000% returns per year in his shell company MMM that produced nothing and had no assets, with an unexpected rise in the share price from 1,600 rubles to 105,000 rubles. Most surprising of all, after the bubble burst, Mavrody appeared as an advocate for shareholders with the government and won the game. The Madoff 2008 scandal, another shell company on Wall Street whose returns were paid for with new customers entering the system, a $ 50 million marketing scam.
+  A bubble is created over a promising asset, when investors place their trust in certain instruments because of their ability to capitalize profits quickly, where profits come from asset trading, rather than because of their productive capacity. Financial bubbles are consistent with the rational behavior of economic agents, but mainly with the optimism of investors. Easy money is synonymous with unproductive money. Investments deviate from those businesses that can produce tangible goods within the real economy. This does not mean that cryptocurrencies cannot become a currency, but that at present, they seem more like a financial bubble. Risk-averse investors should be very careful with these types of instruments. We must remember that in its beginnings all technological developments have had great volatility and there has been speculation with them. This is due to the fact that the way of financing the projects is through venture capital, some are achieved, others are not.
+  Remember that cryptocurrencies are not illegal, the government could intervene but only to regulate the market, it is the responsibility of each investor to take the risk according to their investment plans
+
+##A practical case for investment funds 
+
+There are many problems that can be solved with blockchain technology: Complex financial assets, create voting sistems, smart contracts (Ethereum has available this technology), event tickets, 
+cadastral property systems...  
+
+In opinion of rabiul et al. (2008, p. 70), blockchain technology offers ascend to new administration structure and how administration is being executed. It empowers openness in computerized plans of action and may create supportable new income streams.
+
+##Final remarks and recommendations 
+  
+The cryptocurrencies does not have a trend in the long run. 
+Given that they are only based on the law of supply and demand -scarcity-, they cannot primarily serve as an instrument of investment or hoarding of wealth, due to their speculative nature.
+
+
+
+## Bibliography
+
+An Introduction to Bitcoin and Blockchain Technology. February 2016. ©2015 Kaye Scholer LLP, 250 West 55th Street, New York, NY 10019-9710. 
+
+Bifo, Franco Berardi, 2014. La sublevación. Surplus editores. México, D.F. 
+
+Blanchard, Olivier; Amighini, Alessia; Giavazzi, Francesco, 2012. Macroeconomía. Pearson. Madrid, España.
+
+Chang, Victor; Newman, Russell; Walters, Robert and Wills, Gary, 2016. Review of economic bubbles. August, 2016. International Journal of Information Management.
+
+Cohen, B, 1998. The Geography of Money. Ithaca. Cornell University Press
+
+Digital assets on public Blockchains. White Paper. BitFury Group. Mar 15, 2016. 
+
+Evanoff, Douglas; Kaufman, George; Malliaris, Anastasios, 2012. Asset price bubbles: What are the causes, consequences, and public pilicy options? Nov. 2012. Number 304. The Federal Reserve Bank of Chicago. 
+
+Hayek, F., 1976. Choice in currency. A way to stop inflation. The Institute of Economic Affairs.
+
+Hermele, Kenneth, 2014. Commodity Currencies vs Fiat Money - Automaticity vs Embedment. Paper Series; Vol. 44). Fessud, University of Leeds. 
+
+Hicks, J., R., 1978 [1939]. Value and Capital. Oxford University Press. 
+
+Hilferding, Rudolf, 1973 [1909]. El Capital Financiero. Edición Revolucionario. Instituto Cubano del Libro. México DF. 
+
+Kurz, Heinz D.; Salvadori, Neri, 1995. Theory of production. A long period analysis. pp. 1-41. Cambridge University Press. 
+
+Kurz, Heinz D., 2018. Marx and "the law of value". A critical appraisal on the occasion of his 200th birthday. Investigación Económica. Volumen 77, núm. 304, pp. 40-71. Abril-Junio 2018. Universidad Nacional Autónoma de México. Ciudad de México.
+
+Madura, Jeff, 2015. Administración Financiara internacional. Cenage Learning Editores, S.A. de C.V. México.
+
+Marshall, Alfred, 2013 [1890]. Principles of Economics. Palgrave Macmillan, London.
+
+Marx, Karl, 2018 [1867]. El Capital. Biblioteca del pensamiento socialista. Tomo I, Libro I. Siglo XXI editores. Ciudad de México. 
+
+Marx, Karl, 2018 [1867]. El Capital. Biblioteca del pensamiento socialista. Tomo II, Libro I. Siglo XXI editores. Ciudad de México.
+
+Marx, Karl, 2018 [1867]. El Capital. Biblioteca del pensamiento socialista. Tomo III, Libro I. Siglo XXI editores. Ciudad de México.
+
+Menger, Karl, 1892. On the Origin of Money The Economic Journal, Vol. 2, No. 6. (Jun., 1892), pp. 239-255.
+
+Mundell, Robert, 1998. Uses and Abuses of Gresham's Law in the History of Money. Zagreb Journal of Economics, Volume 2, No. 2, 1998.
+
+Nakamoto, Satoshi, 2008. Bitcoin: A Peer-to-Peer Electronic Cash System. November, 2008.
+
+Rabiul, Mohammad; Fakhri, Imad; Mohd, Rizal; Sardar, Kabir; 2018. Cryptocurrency vs Fiat Currency: Architecture, Algorithm, Cashflow & Ledger Technology on Emerging Economy. Subtitle: The Influential facts of Cryptocurrency and Fiat Currency. Conference Paper· July 2018.International Conference on Information and Communication Technology for the Muslim World. Conference Publishing Services IEEE.
+
+Ricardo, David, 1994 [1817]. Principios de Economía Política y Tributación. Obras y correspondencia editadas por Piero Sraffa. Fondo de Cultura Económica. Quinta reimpresión. Ciudad de México.  
+
+Roll, Eric, 2017 [1938]. Historia de las Doctrinas Económicas. Fondo de Cultura económica. México. 
+
+Salama, Pierre, 1978 [1975]. Sobre el Valor. Editorial Era. México, D.F. 
+ 
+Smith, Adam, 2017 [1776]. Investigación sobre la Naturaleza y Causas de la Riqueza de las Naciones. Vigésima reimpresión. Fondo de Cultura Económica. México.  
+
+Sraffa, Piero, 1960. Production of commodities by means of commodities. Cambridge: Cambridge University Press. 
+
+Tikhonov, Yuriy; Pudovkina, Olga; Permjakova, Juliana, 2016. "Financial Bubbles" and Monetary policy. Vol. 11. Num. 14. pp. 6811-6819. international Journal of Environmental & Science Education. 
+
+Yotopoulos, Pan; Sawada, Yasuyuki, 1999. Free currency markets, financial crisis and the growth debacle: is there a causal link? Seoul Journal of Economics, vol. 12, num. 4. Institute of Economic Research-Seoul National University, pp. 419-456.
+
